@@ -1,0 +1,3 @@
+This is a test project to recreat the google homepage
+I have no idea what I'm doing so this could take a while...
+From The Odin Project's [curriculum](http://www.theodinproject.com/courses/web-development-101/lessons/html-css)
