@@ -109,3 +109,31 @@ a:hover {
 	border-color: black;
 	border: 5;
 }
+
+.sbutton {
+	padding-top: 30px;
+}
+
+.sbutton {
+	font-size: 13px;
+	font-family: Arial,sans-serif;
+}
+
+.sbutton a {
+	text-decoration: none;
+}
+
+.sbutton a:hover {
+	text-decoration: underline;
+}
+
+button {
+	background-color: #f2f2f2;
+	border: 1px solid #f2f2f2;
+	width: 125px;
+	height: 34px;
+	border-radius: 8px;
+	font-family: Arial, sans-serif;
+	font-size: 14px;
+	margin: 4px;
+}
