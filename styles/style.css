@@ -127,7 +127,7 @@ a:hover {
 	text-decoration: underline;
 }
 
-button {
+#gsearch {
 	background-color: #f2f2f2;
 	border: 1px solid #f2f2f2;
 	width: 125px;
@@ -136,4 +136,32 @@ button {
 	font-family: Arial, sans-serif;
 	font-size: 14px;
 	margin: 4px;
+	color: rgb(89, 89, 89)
 }
+
+#lucky {
+	background-color: #f2f2f2;
+	border: 1px solid #f2f2f2;
+	width: 142px;
+	height: 34px;
+	border-radius: 8px;
+	font-family: Arial, sans-serif;
+	font-size: 14px;
+	margin: 4px;
+	color: rgb(89, 89, 89)
+}
+
+#lucky:hover {
+	box-shadow: 0 1px 1px rgba(0,0,0,0.1);
+    background-image: -webkit-linear-gradient(top,#f8f8f8,#f1f1f1);
+    background-color: #f8f8f8;
+    border: 1px solid #c6c6c6;
+    color: #222;
+}
+
+#gsearch:hover {
+	box-shadow: 0 1px 1px rgba(0,0,0,0.1);
+    background-image: -webkit-linear-gradient(top,#f8f8f8,#f1f1f1);
+    background-color: #f8f8f8;
+    border: 1px solid #c6c6c6;
+    color: #222;
